@@ -3,4 +3,4 @@ node_modules/
 # Ignore file starting with z
 z*
 .env
-\artifacts\
+/artifacts/
